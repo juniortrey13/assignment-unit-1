@@ -17,11 +17,19 @@ main{
 }
 img{
     border: 3px solid black;
+    width: 350px;
+    height: auto;
 }
 footer{
     background-color: teal;
     background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
     text-align: center;
     padding: 5px 20px;
+
+}
+.favorite-quote{
+    font-size: 25px;
+}
+.quote-reference{
     font-style: italic;
 }
