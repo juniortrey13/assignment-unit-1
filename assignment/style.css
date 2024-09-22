@@ -1,8 +1,12 @@
-/* Add a background color to the header element */
+header{
+    background-color: teal;
+    background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+    text-align: center;
+
+}
+
 
 /* Add a fun background color to the main element */
-
-/* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
 
