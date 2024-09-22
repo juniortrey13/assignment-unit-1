@@ -4,7 +4,13 @@ header{
     text-align: center;
 
 }
-
+main{
+    background-color:white;
+    background-image: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 68%, rgba(144,255,252,1) 100%);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
 
 /* Add a fun background color to the main element */
 
