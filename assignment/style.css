@@ -3,6 +3,7 @@ header{
     background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
     text-align: center;
     padding: 5px 20px;
+    font-size: 40px;
 
 }
 main{
@@ -11,14 +12,15 @@ main{
     color: black;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
+    font-size: 20px;
 }
-
-/* Add a fun background color to the main element */
-
-/* Make your p tag a different color and italic */
-
-/* Put a border around your image */
-
-/* Change the font-family of your list */
-
-/* Add a background color to the footer element */
+img{
+    border: 3px solid black;
+}
+footer{
+    background-color: teal;
+    background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+    text-align: center;
+    padding: 5px 20px;
+    font-style: italic;
+}
