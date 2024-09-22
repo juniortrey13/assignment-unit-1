@@ -5,6 +5,7 @@ header{
     padding: 5px 20px;
     font-size: 40px;
     text-decoration: underline;
+    color: white;
 
 }
 main{
@@ -25,6 +26,7 @@ footer{
     background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
     text-align: center;
     padding: 5px 20px;
+    color: white;
 
 }
 .favorite-quote{
